@@ -1,5 +1,5 @@
 function googleApiClientReady() {
-    var apiKey = 'AIzaSyB18fXJ8LU05X0FpLuSke0p0IIRNMSO4rQ';
+    var apiKey = 'AIzaSyC7TEDKyP3dt3-TfyT4DtAu_835R6_Pdd8';
     var youtubeId;
     $('#input-youtube').keyup(function() {
         var username = $('input[name="channelname"]').val();
